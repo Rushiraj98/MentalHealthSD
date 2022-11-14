@@ -1,7 +1,12 @@
 # MentalHealthSD
 ## Accelerate Mental Health Engineering
 
-
+### This project was created as apart of a hackathon organized by lablab.ai
+Members: 
+1. Cliona Chee
+2. Amar Sai Teja
+3. Daniele 
+4. Rushiraj Chavan
 
 ### Log in to spatial.io metaverse. 
 ### Get into Chrolove Chromotherapy room with VR headset or with phone with VR feature or Apple devices with AR features. 
